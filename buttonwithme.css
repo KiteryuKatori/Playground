@@ -83,9 +83,7 @@ IM BEING HELPFUL. YOU BETTER SAY THANK YOU TO ME, FUTURE ME*/
         z-index: 1;
     }
     
-    .Amaryllis:hover {
-        color: #ffffff;
-    }
+    .Amaryllis:hover {color: #ffffff;}
 
     /*Amaryllis one and three*/
     .Amaryllis.one:before {   
