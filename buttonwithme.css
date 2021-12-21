@@ -14,10 +14,10 @@
     --Amaryllis-clicked-color: #ee5149;
     --Amaryllis-text-color: #f74a41;
     
-    --Nasturtium-main-color: #fac177;
-    --Nasturtium-background-color: #f8d5b9;
-    --Nasturtium-clicked-color: #faa72a;
-    --Nasturtium-text-color: #ff9735;
+    --Nasturtium-main-color: #fca055;
+    --Nasturtium-background-color: #fae2cf;
+    --Nasturtium-clicked-color: #ffa653;
+    --Nasturtium-text-color: #ffa856;
 
     --CorsicanHellebore-main-color: #7fe684;
     --CorsicanHellebore-background-color:#c5ffc8;
@@ -105,6 +105,7 @@ IM BEING HELPFUL. YOU BETTER SAY THANK YOU TO ME, FUTURE ME*/
     font-size: 30px;
     font-weight: bold;
     transition: ease-in-out 0.3s;
+    overflow: hidden;
     z-index: 1;
 }
 
