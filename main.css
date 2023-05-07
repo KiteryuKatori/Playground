@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&family=Nunito:wght@200&family=Poiret+One&display=swap');
 
-:root{
+:root {
     --button-width: 150px;
     --button-height: 75px;
     
@@ -25,17 +25,17 @@
     --CorsicanHellebore-text-color: #4fec57;
 
 }
-*{
+* {
     padding:0;
     margin:0;
 }
 
-button:focus{
+button:focus {
     outline: none !important;
 }
 
 /*GLOBAL BUTTON AND HEADERS SETTINGS*/
-.buttondemo{
+.buttondemo {
     width: var(--button-width);
     height: var(--button-height);
     padding: 10px;
@@ -256,7 +256,7 @@ IM BEING HELPFUL. YOU BETTER SAY THANK YOU TO ME, FUTURE ME*/
 }
 
 /*Nasturtium Three*/
-.Nasturtium.three:after{
+.Nasturtium.three:after {
     width: 0%;
     height: 0%;
     border-radius: 50%;
@@ -272,7 +272,7 @@ IM BEING HELPFUL. YOU BETTER SAY THANK YOU TO ME, FUTURE ME*/
 .Nasturtium.four {
     background-color: var(--Nasturtium-main-color);
 }
-.Nasturtium.four:after{
+.Nasturtium.four:after {
     width: 125%;
     height: 250%;
     border-radius: 50%;
